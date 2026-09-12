@@ -1,4 +1,4 @@
-#This_is_the_version_I_left_the_interview_with
+#This_is_the_version_I_got_after_debugging
 
 class CouponGenerator{
 
