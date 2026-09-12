@@ -1,3 +1,5 @@
+#This_is_the_version_I_left_the_interview_with
+
 class CouponGenerator{
 
   constructor(maxCouponsPerUser=5){
